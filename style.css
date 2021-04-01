@@ -53,7 +53,9 @@ nav{
 .glow-button3{
 	text-align: center;
 	align-content: center;
-		text-transform: uppercase;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
 	font-family: "Karla";
 	font-size: medium;
 	border-style: solid;
